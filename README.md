@@ -12,7 +12,6 @@ A music app that recognize genres and generate playlists using machine learning
 <img src="assets/20240526_131350_Screenshot_139.png" width="80%" alt="post" />
 -->
 
-![Contributors](https://img.shields.io/github/contributors/Rajeenthan05/Beat_?Blender?style=for-the-badge&color=%236b2e99&logoSize=auto&labelColor=%23353535)
 ![Stars](https://img.shields.io/github/stars/Rajeenthan05/Beat_Blender?style=for-the-badge&color=%236b2e99&logoSize=auto&labelColor=%23353535)
 ![Licence](https://img.shields.io/github/license/Rajeenthan05/Beat_Blender?style=for-the-badge&color=%236b2e99&logoSize=auto&labelColor=%23353535)
 
